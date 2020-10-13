@@ -1,3 +1,3 @@
 # My First Repo
 
-Learning how to use github
+Learning how to use github.
